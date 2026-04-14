@@ -215,3 +215,19 @@ Cubes are not passive objects — each unit:
 ---
 
 ## Project Structure
+/Cubes_.ino → Cube firmware
+/FMS_.ino → Field Management System firmware
+
+---
+
+## Purpose
+
+This project exists to enable:
+- fast deployment of a fully interactive robotics game system
+- scalable multi-device coordination
+- real-time scoring and visualization
+- accessible, high-impact STEM experiences
+
+CubicChaos bridges embedded systems, networking, and game design into a single cohesive platform.
+
+---
