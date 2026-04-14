@@ -6,7 +6,7 @@ CubicChaos is a distributed robotics game platform built around intelligent cube
 The system combines embedded sensing, wireless communication, and game-state orchestration to create a dynamic, interactive competition environment where physical game elements actively participate in scoring and feedback.
 
 At its core, CubicChaos transforms passive game pieces into autonomous, networked devices that:
-- detect their own orientation aaaaa
+- detect their own orientation
 - communicate with a central controller
 - display game state visually and audibly
 - contribute directly to real-time scoring
